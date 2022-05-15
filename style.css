@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background-color: #f8ecd1;
   font-family: "Viga", sans-serif;
@@ -11,6 +17,6 @@ audio {
 }
 
 .container {
-  margin-left: 300px;
+  margin-left: 100px;
   margin-top: 10px;
 }
